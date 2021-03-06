@@ -1,6 +1,5 @@
-{
-    "Encontros": [{
-
+[
+   {
         "local": "Floresta do Troll",
         "encontro": "Troll Xamã"
     }, {
@@ -24,5 +23,5 @@
     }, {
         "local": "Floresta do Troll",
         "encontro": "Troll Aquatico"
-    }]
-}
+    }
+]
