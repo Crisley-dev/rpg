@@ -1,28 +1,26 @@
+[
 {
-    "Encontros": [{
-
-        "local": "Floresta do Troll",
-        "encontro": "Troll Xamã"
-    }, {
-        "local": "Floresta do Troll",
-        "encontro": "Troll das Montanhas"
-    }, {
-        "local": "Floresta do Troll",
-        "encontro": "Troll Xamã"
-    }, {
-        "local": "Floresta do Troll",
-        "encontro": "Troll das Cavernas"
-    }, {
-        "local": "Floresta do Troll",
-        "encontro": "Troll Comum"
-    }, {
-        "local": "Troll Subterraneo",
-        "encontro": "Floresta do Troll"
-    }, {
-        "local": "Floresta do Troll",
-        "encontro": "Troll Glacial"
-    }, {
-        "local": "Floresta do Troll",
-        "encontro": "Troll Aquatico"
-    }]
-}
+"local": "Floresta do Troll",
+"encontro": "Troll Xamã"
+}, {
+"local": "Floresta do Troll",
+"encontro": "Troll das Montanhas"
+}, {
+"local": "Floresta do Troll",
+"encontro": "Troll Xamã"
+}, {
+"local": "Floresta do Troll",
+"encontro": "Troll das Cavernas"
+}, {
+"local": "Floresta do Troll",
+"encontro": "Troll Comum"
+}, {
+"local": "Troll Subterraneo",
+"encontro": "Floresta do Troll"
+}, {
+"local": "Floresta do Troll",
+"encontro": "Troll Glacial"
+}, {
+"local": "Floresta do Troll",
+"encontro": "Troll Aquatico"
+}]
