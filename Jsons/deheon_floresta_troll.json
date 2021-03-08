@@ -1,5 +1,5 @@
 {
-    0: [{
+    "Floresta Troll": [{
         "encontro": "Troll Xamã"
     }, {
         "encontro": "Troll das Montanhas"
@@ -17,7 +17,7 @@
         "encontro": "Troll Aquatico"
     }],
 
-    1: [{
+    "Deheon Geral": [{
         "encontro": "1 Gigante(Gelo,Fogo,Colina,Pedra)"
     },{
         "encontro": "1 Manticora"
