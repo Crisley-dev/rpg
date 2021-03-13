@@ -34,7 +34,7 @@
     }],
 
     "Deheon Geral": [{
-        "encontro": "1 Gigante(Gelo,Fogo,Colina,Pedra)",
+        "encontro": "Gigante(Gelo,Fogo,Colina,Pedra)",
         "dado": "0",
         "mod": "1"
     },{
@@ -46,39 +46,39 @@
         "dado": "0",
         "mod":"2"
     },{
-        "encontro": "1d4+1 Lobos",
+        "encontro": "Lobos",
         "dado": "4",
         "mod":"1"
     },{
-        "encontro": "2 Leopardos",
+        "encontro": "Leopardos",
         "dado":"0",
         "mod":"2"
     },{
-        "encontro": "1d4+1 Centauros",
+        "encontro": "Centauros",
         "dado":"4",
         "mod":"1"
     },{
-        "encontro": "1d6 Goblins com 1 Hobgoblin",
+        "encontro": "Goblins com 1 Hobgoblin",
         "dado":"6",
         "mod":"0"
     },{
-        "encontro": "1d6 Goblins",
+        "encontro": "Goblins",
         "dado":"6",
         "mod":"0"
     },{
-        "encontro": "1d4 Goblins com 1 Ogro",
+        "encontro": "Goblins com 1 Ogro",
         "dado":"4",
         "mod":"0"
     },{
-        "encontro": "1d6 Bandidos",
+        "encontro": "Bandidos",
         "dado":"6",
         "mod":"0"
     },{
-        "encontro": "1d4 Kobolds e 1 Kobold chefe",
+        "encontro": "Kobolds e 1 Kobold chefe",
         "dado":"4",
         "mod":"0"
     },{
-        "encontro": "1d8 Kobolds",
+        "encontro": "Kobolds",
         "dado":"8",
         "mod":"0"
     }
