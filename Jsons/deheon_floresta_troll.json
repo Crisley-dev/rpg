@@ -1,50 +1,50 @@
 {
     "Floresta Troll": [{
         "encontro": "Troll Xamã",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Troll das Montanhas",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Troll Xamã",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Troll das Cavernas",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Troll Comum",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Floresta do Troll",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Troll Glacial",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }, {
         "encontro": "Troll Aquatico",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     }],
 
     "Deheon Geral": [{
         "encontro": "Gigante(Gelo,Fogo,Colina,Pedra)",
-        "dado": "0",
-        "mod": "1"
+        "dado": "1",
+        "mod": "0"
     },{
         "encontro": "Manticora",
-        "dado": "0",
-        "mod":"1"
+        "dado": "1",
+        "mod":"0"
     },{
         "encontro": "Ursos",
-        "dado": "0",
-        "mod":"2"
+        "dado": "2",
+        "mod":"0"
     },{
         "encontro": "Lobos",
         "dado": "4",
