@@ -34,7 +34,7 @@
     }],
 
     "Deheon Geral": [{
-        "encontro": "Gigante(Gelo,Fogo,Colina,Pedra)",
+        "encontro": "Gigante",
         "dado": "1",
         "mod": "0"
     },{
