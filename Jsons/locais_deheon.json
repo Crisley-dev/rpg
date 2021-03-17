@@ -28,13 +28,21 @@
         "dado2": "0",
         "mod2": "0"
     }, {
-        "encontro": "Troll Glacial",
-        "dado": "1",
-        "mod": "0"
+        "monstro1": "Troll Glacial",
+            "dado1": "1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Troll Aquatico",
-        "dado": "1",
-        "mod": "0"
+           "monstro1": "Troll Aquatico",
+            "dado1": "1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }],
 
     "Deheon Geral": [{
