@@ -88,7 +88,7 @@
     }],
     "Monte Palidor": [{
             "monstro1": "Orc Chefe",
-            "dado1": "1",
+            "dado1": "2",
             "mod1": "0",
             "multi": " + ",
             "monstro2": "Orc Comum",
@@ -97,37 +97,24 @@
         },
         {
             "monstro1": "Ogro Capanga",
-            "dado1": "1",
-            "mod1": "0",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "dado1": "2",
+            "mod1": "0"
+            
         }, {
             "monstro1": "Orc Xamã",
             "dado1": "2",
-            "mod1": "1",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "mod1": "1"
+            
         },
         {
             "monstro1": "Orc Comum",
             "dado1": "8",
-            "mod1": "0",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "mod1": "0"
         }, {
             "monstro1": "Ogro Comum",
             "dado1": "4",
-            "mod1": "1",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "mod1": "1"
+           
         }, {
             "monstro1": "Orc Negro",
             "dado1": "2",
@@ -135,15 +122,11 @@
             "multi": " + ",
             "monstro2": "Orc Comum",
             "dado2": "4",
-            "mod2": ""
+            "mod2": "0"
         },{
             "monstro1": "Grifo",
-            "dado1": "1",
-            "mod1": "0",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": "" 
+            "dado1": "2",
+            "mod1": "0"
         }
     ]
 }
