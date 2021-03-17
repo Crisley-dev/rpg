@@ -90,7 +90,7 @@
             "monstro1": "Orc Chefe",
             "dado1": "2",
             "mod1": "0",
-            "multi": " + ",
+            "multi": "1",
             "monstro2": "Orc Comum",
             "dado2": "4",
             "mod2": "0"
@@ -132,7 +132,7 @@
             "monstro1": "Orc Negro",
             "dado1": "2",
             "mod1": "1",
-            "multi": " + ",
+            "multi": "1",
             "monstro2": "Orc Comum",
             "dado2": "4",
             "mod2": "0"
