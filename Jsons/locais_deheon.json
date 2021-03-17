@@ -3,30 +3,30 @@
         "monstro1": "Troll Xamã",
         "dado1": "1",
         "mod1": "0",
-        "monstro2": "",
-        "dado2": "",
-        "mod2": ""
+        "monstro2": " ",
+        "dado2": " ",
+        "mod2": " "
     }, {
         "monstro1": "Troll das Montanhas",
         "dado1": "1",
         "mod1": "0",
-        "monstro2": "",
-        "dado2": "",
-        "mod2": ""
+        "monstro2": " ",
+        "dado2": " ",
+        "mod2": " "
     }, {
         "monstro1": "Troll das Cavernas",
         "dado1": "1",
         "mod1": "0",
-        "monstro2": "",
-        "dado2": "",
-        "mod2": ""
+        "monstro2": " ",
+        "dado2": " ",
+        "mod2": " "
     }, {
         "monstro1": "Troll Xamã",
         "dado1": "1",
         "mod1": "0",
-        "monstro2": "",
-        "dado2": "",
-        "mod2": ""
+        "monstro2": " ",
+        "dado2": " ",
+        "mod2": " "
     }, {
         "encontro": "Troll Glacial",
         "dado": "1",
@@ -99,35 +99,35 @@
             "monstro1": "Ogro Capanga",
             "dado1": "1",
             "mod1": "0",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "multi": " ",
+            "monstro2": " ",
+            "dado2": " ",
+            "mod2": " "
         }, {
             "monstro1": "Orc Xamã",
             "dado1": "2",
             "mod1": "1",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "multi": " ",
+            "monstro2": " ",
+            "dado2": " ",
+            "mod2": " "
         },
         {
             "monstro1": "Orc Comum",
             "dado1": "8",
             "mod1": "0",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "multi": " ",
+            "monstro2": " ",
+            "dado2": " ",
+            "mod2": " "
         }, {
             "monstro1": "Ogro Comum",
             "dado1": "4",
             "mod1": "1",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": ""
+            "multi": " ",
+            "monstro2": " ",
+            "dado2": " ",
+            "mod2": " "
         }, {
             "monstro1": "Orc Negro",
             "dado1": "2",
@@ -135,15 +135,15 @@
             "multi": " + ",
             "monstro2": "Orc Comum",
             "dado2": "4",
-            "mod2": ""
+            "mod2": " "
         },{
             "monstro1": "Grifo",
             "dado1": "1",
             "mod1": "0",
-            "multi": "",
-            "monstro2": "",
-            "dado2": "",
-            "mod2": "" 
+            "multi": " ",
+            "monstro2": " ",
+            "dado2": " ",
+            "mod2": " " 
         }
     ]
 }
