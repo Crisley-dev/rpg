@@ -1,0 +1,149 @@
+{
+    "Floresta Troll": [{
+        "monstro1": "Troll Xamã",
+        "dado1": "1",
+        "mod1": "0",
+        "monstro2": "",
+        "dado2": "",
+        "mod2": ""
+    }, {
+        "monstro1": "Troll das Montanhas",
+        "dado1": "1",
+        "mod1": "0",
+        "monstro2": "",
+        "dado2": "",
+        "mod2": ""
+    }, {
+        "monstro1": "Troll das Cavernas",
+        "dado1": "1",
+        "mod1": "0",
+        "monstro2": "",
+        "dado2": "",
+        "mod2": ""
+    }, {
+        "monstro1": "Troll Xamã",
+        "dado1": "1",
+        "mod1": "0",
+        "monstro2": "",
+        "dado2": "",
+        "mod2": ""
+    }, {
+        "encontro": "Troll Glacial",
+        "dado": "1",
+        "mod": "0"
+    }, {
+        "encontro": "Troll Aquatico",
+        "dado": "1",
+        "mod": "0"
+    }],
+
+    "Deheon Geral": [{
+        "encontro": "Gigante",
+        "dado": "1",
+        "mod": "0"
+    }, {
+        "encontro": "Manticora",
+        "dado": "1",
+        "mod": "0"
+    }, {
+        "encontro": "Ursos",
+        "dado": "2",
+        "mod": "0"
+    }, {
+        "encontro": "Lobos",
+        "dado": "4",
+        "mod": "1"
+    }, {
+        "encontro": "Leopardos",
+        "dado": "0",
+        "mod": "2"
+    }, {
+        "encontro": "Centauros",
+        "dado": "4",
+        "mod": "1"
+    }, {
+        "encontro": "Goblins com 1 Hobgoblin",
+        "dado": "6",
+        "mod": "0"
+    }, {
+        "encontro": "Goblins",
+        "dado": "6",
+        "mod": "0"
+    }, {
+        "encontro": "Goblins com 1 Ogro",
+        "dado": "4",
+        "mod": "0"
+    }, {
+        "encontro": "Bandidos",
+        "dado": "6",
+        "mod": "0"
+    }, {
+        "encontro": "Kobolds e 1 Kobold chefe",
+        "dado": "4",
+        "mod": "0"
+    }, {
+        "encontro": "Kobolds",
+        "dado": "8",
+        "mod": "0"
+    }],
+    "Monte Palidor": [{
+            "monstro1": "Orc Chefe",
+            "dado1": "1",
+            "mod1": "0",
+            "multi": " + ",
+            "monstro2": "Orc Comum",
+            "dado2": "4",
+            "mod2": "0"
+        },
+        {
+            "monstro1": "Ogro Capanga",
+            "dado1": "1",
+            "mod1": "0",
+            "multi": "",
+            "monstro2": "",
+            "dado2": "",
+            "mod2": ""
+        }, {
+            "monstro1": "Orc Xamã",
+            "dado1": "2",
+            "mod1": "1",
+            "multi": "",
+            "monstro2": "",
+            "dado2": "",
+            "mod2": ""
+        },
+        {
+            "monstro1": "Orc Comum",
+            "dado1": "8",
+            "mod1": "0",
+            "multi": "",
+            "monstro2": "",
+            "dado2": "",
+            "mod2": ""
+        }, {
+            "monstro1": "Ogro Comum",
+            "dado1": "4",
+            "mod1": "1",
+            "multi": "",
+            "monstro2": "",
+            "dado2": "",
+            "mod2": ""
+        }, {
+            "monstro1": "Orc Negro",
+            "dado1": "2",
+            "mod1": "1",
+            "multi": " + ",
+            "monstro2": "Orc Comum",
+            "dado2": "4",
+            "mod2": ""
+        },{
+            "monstro1": "Grifo",
+            "dado1": "1",
+            "mod1": "0",
+            "multi": "",
+            "monstro2": "",
+            "dado2": "",
+            "mod2": "" 
+        }
+    ]
+}
