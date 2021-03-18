@@ -1,7 +1,7 @@
 {
     "Floresta Troll": [{
         "monstro1": "Troll Xamã",
-        "dado1": "2",
+        "dado1": "1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
@@ -9,7 +9,7 @@
         "mod2": "0"
     }, {
         "monstro1": "Troll das Montanhas",
-        "dado1": "2",
+        "dado1": "1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
@@ -17,7 +17,7 @@
         "mod2": "0"
     }, {
         "monstro1": "Troll das Cavernas",
-        "dado1": "2",
+        "dado1": "1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
@@ -25,7 +25,7 @@
         "mod2": "0"
     }, {
         "monstro1": "Troll Xamã",
-        "dado1": "2",
+        "dado1": "1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
@@ -33,7 +33,7 @@
         "mod2": "0"
     }, {
         "monstro1": "Troll Glacial",
-            "dado1": "2",
+            "dado1": "1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
@@ -41,7 +41,7 @@
             "mod2": "0"
     }, {
            "monstro1": "Troll Aquatico",
-            "dado1": "2",
+            "dado1": "1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
@@ -50,57 +50,105 @@
     }],
 
     "Deheon Geral": [{
-        "encontro": "Gigante",
-        "dado": "1",
-        "mod": "0"
+        "monstro1": "Gigante",
+            "dado1": "1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Manticora",
-        "dado": "1",
-        "mod": "0"
+        "monstro1": "Manticora",
+        "dado1": "1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Ursos",
-        "dado": "2",
-        "mod": "0"
+        "monstro1": "Ursos",
+        "dado1": "2",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Lobos",
-        "dado": "4",
-        "mod": "1"
+        "monstro1": "Lobos",
+        "dado1": "4",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Leopardos",
-        "dado": "0",
-        "mod": "2"
+        "monstro1": "Leopardos",
+        "dado1": "2",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Centauros",
-        "dado": "4",
-        "mod": "1"
+        "monstro1": "Centauros",
+        "dado1": "4",
+        "mod1": "1",
+        "multi": "0",
+        "monstro2": "0",
+        "dado2": "0",
+        "mod2": "0"
     }, {
-        "encontro": "Goblins com 1 Hobgoblin",
-        "dado": "6",
-        "mod": "0"
+        "monstro1": "Goblins com 1 Hobgoblin",
+        "dado1": "4",
+            "mod1": "1",
+            "multi": "1",
+            "monstro2": "Hobgoblin",
+            "dado2": "1",
+            "mod2": "0"
     }, {
-        "encontro": "Goblins",
-        "dado": "6",
-        "mod": "0"
+        "monstro1": "Goblins",
+        "dado1": "6",
+        "mod1": "0",
+        "multi": "0",
+        "monstro2": "0",
+        "dado2": "0",
+        "mod2": "0"
     }, {
-        "encontro": "Goblins com 1 Ogro",
-        "dado": "4",
-        "mod": "0"
+        "monstro1": "Goblins",
+        "dado1": "4",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "Ogro",
+            "dado2": "1",
+            "mod2": "0"
     }, {
-        "encontro": "Bandidos",
-        "dado": "6",
-        "mod": "0"
+        "monstro1": "Bandidos",
+        "dado1": "6",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }, {
-        "encontro": "Kobolds e 1 Kobold chefe",
-        "dado": "4",
-        "mod": "0"
+        "monstro1": "Kobolds",
+        "dado1": "4",
+        "mod1": "0",
+        "multi": "1",
+        "monstro2": "Kobold Chefe",
+        "dado2": "1",
+        "mod2": "0"
     }, {
-        "encontro": "Kobolds",
-        "dado": "8",
-        "mod": "0"
+        "monstro1": "Kobolds",
+        "dado1": "8",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "mod2": "0"
     }],
     "Monte Palidor": [{
             "monstro1": "Orc Chefe",
-            "dado1": "2",
+            "dado1": "1",
             "mod1": "0",
             "multi": "1",
             "monstro2": "Orc Comum",
@@ -143,14 +191,14 @@
         }, {
             "monstro1": "Orc Negro",
             "dado1": "2",
-            "mod1": "1",
+            "mod1": "0",
             "multi": "1",
             "monstro2": "Orc Comum",
             "dado2": "4",
             "mod2": "0"
         },{
             "monstro1": "Grifo",
-            "dado1": "2",
+            "dado1": "1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
