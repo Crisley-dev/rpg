@@ -2,208 +2,452 @@
     "Floresta Troll": [{
         "monstro1": "Troll Xamã",
         "dado1": "1",
+        "num_dado1":"1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
         "dado2": "0",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Troll das Montanhas",
         "dado1": "1",
+        "num_dado1":"1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
         "dado2": "0",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Troll das Cavernas",
         "dado1": "1",
+        "num_dado1":"1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
         "dado2": "0",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Troll Xamã",
         "dado1": "1",
+        "num_dado1":"1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
         "dado2": "0",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Troll Glacial",
             "dado1": "1",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
            "monstro1": "Troll Aquatico",
             "dado1": "1",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }],
 
     "Deheon Geral": [{
         "monstro1": "Gigante da Colina",
             "dado1": "1",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Manticora",
         "dado1": "1",
+        "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Urso",
         "dado1": "2",
+        "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Lobo",
         "dado1": "4",
+        "num_dado1":"1",
             "mod1": "1",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Leopardo",
         "dado1": "2",
+        "num_dado1":"1",
             "mod1": "1",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Centauro Comum",
         "dado1": "4",
+        "num_dado1":"1",
         "mod1": "1",
         "multi": "0",
         "monstro2": "0",
         "dado2": "0",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Goblin",
         "dado1": "4",
+        "num_dado1":"1",
             "mod1": "1",
             "multi": "1",
             "monstro2": "Hobgoblin",
             "dado2": "1",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Goblin",
         "dado1": "6",
+        "num_dado1":"1",
         "mod1": "0",
         "multi": "0",
         "monstro2": "0",
         "dado2": "0",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Goblin",
         "dado1": "4",
+        "num_dado1":"1",
             "mod1": "1",
             "multi": "0",
             "monstro2": "Ogro",
             "dado2": "1",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Bandido",
         "dado1": "6",
+        "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }, {
         "monstro1": "Kobold",
         "dado1": "4",
+        "num_dado1":"1",
         "mod1": "0",
         "multi": "1",
         "monstro2": "Kobold Chefe",
         "dado2": "1",
+        "num_dado2":"1",
         "mod2": "0"
     }, {
         "monstro1": "Kobold",
         "dado1": "8",
+        "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
     }],
     "Monte Palidor": [{
             "monstro1": "Orc Chefe",
             "dado1": "1",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "1",
             "monstro2": "Orc Comum",
             "dado2": "4",
+            "num_dado2":"1",
             "mod2": "0"
         },
         {
             "monstro1": "Ogro Capanga",
             "dado1": "2",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
         }, {
             "monstro1": "Orc Xamã",
             "dado1": "2",
+            "num_dado1":"1",
             "mod1": "1",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
         },
         {
             "monstro1": "Orc Comum",
             "dado1": "8",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
         }, {
             "monstro1": "Ogro Comum",
             "dado1": "4",
+            "num_dado1":"1",
             "mod1": "1",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0"
         }, {
             "monstro1": "Orc Negro",
             "dado1": "2",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "1",
             "monstro2": "Orc Comum",
             "dado2": "4",
+            "num_dado2":"1",
             "mod2": "0"
         },{
             "monstro1": "Grifo",
             "dado1": "1",
+            "num_dado1":"1",
             "mod1": "0",
             "multi": "0",
             "monstro2": "0",
             "dado2": "0",
+            "num_dado2":"1",
             "mod2": "0" 
-        }
-    ]
+        }],
+        "Pantano dos Juncos":[{
+            "monstro1": "Catobeplas",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },
+        {
+            "monstro1": "Sapo Gigante",
+            "dado1": "2",
+            "num_dado1":"1",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Soldado Sapo",
+            "dado1": "6",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Campeao Batraqui",
+            "dado1": "4",
+            "num_dado1":"1",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        }],
+        "Ruinas de Tolian":[{
+            "monstro1": "Gargola",
+            "dado1": "6",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Harpia",
+            "dado1": "6",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        }],
+        "Montanhas de Teldiskan":[{
+            "monstro1": "Gigante das Colinas",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Grifo",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Ogro Comum",
+            "dado1": "2",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Kobold",
+            "dado1": "4",
+            "num_dado1":"1",
+            "mod1": "2",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Orcs",
+            "dado1": "4",
+            "num_dado1":"1",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Orc Xamã",
+            "dado1": "2",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        }],
+        "Badlands":[{
+            "monstro1": "Mumia",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Ogro Esqueleto",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Livido",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "1",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Sombra",
+            "dado1": "4",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Carniçal",
+            "dado1": "6",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Humano Esqueleto",
+            "dado1": "6",
+            "num_dado1":"2",
+            "mod1": "2",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Zumbi",
+            "dado1": "6",
+            "num_dado1":"2",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        }]
 }
