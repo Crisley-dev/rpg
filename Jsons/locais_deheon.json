@@ -451,7 +451,7 @@
             "mod2": "0"
         }],
         "Colinas de Marah":[{
-            "monstro1": "Kobold Reu",
+            "monstro1": "Kobold Rei",
             "dado1": "1",
             "num_dado1":"1",
             "mod1": "0",
@@ -476,7 +476,7 @@
             "num_dado1":"1",
             "mod1": "0",
             "multi": "1",
-            "monstro2": "Kobold Comum",
+            "monstro2": "Kobold",
             "dado2": "6",
             "num_dado2":"1",
             "mod2": "0"
