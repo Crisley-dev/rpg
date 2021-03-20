@@ -449,5 +449,108 @@
             "dado2": "0",
             "num_dado2":"1",
             "mod2": "0"
-        }]
+        }],
+        "Colinas de Marah":[{
+            "monstro1": "Kobold Reu",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Ogro Capanga",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Kobold Chefe",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "1",
+            "monstro2": "Kobold Comum",
+            "dado2": "6",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Ogro Comum",
+            "dado1": "4",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Kobold Comum",
+            "dado1": "8",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        }],
+        "Floresta Basilisco":[{
+            "monstro1": "Basilisco",
+            "dado1": "8",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Falso Basilisco",
+            "dado1": "2",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Crocodilo Gigante",
+            "dado1": "2",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Sucuri",
+            "dado1": "2",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        },{
+            "monstro1": "Cobra Rei",
+            "dado1": "1",
+            "num_dado1":"1",
+            "mod1": "0",
+            "multi": "0",
+            "monstro2": "0",
+            "dado2": "0",
+            "num_dado2":"1",
+            "mod2": "0"
+        }
+    ]
 }
