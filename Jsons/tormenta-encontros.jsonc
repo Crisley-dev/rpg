@@ -1,0 +1,2565 @@
+/*
+* DADO = D2 / D4 / D6 / D8 / D10 / D12 / D20 / D100
+* NUM_DADO = QUANTIDADE DE DADOS
+* MONSTRO = CRIATURA DA ROLAGEG
+* MOD = MODIFICADOR DA ROLAGEM
+* MULTI = 0 QUANDO TEM 1 CRIATURA / 1 QUANDO TEM 2 OU MAIS
+*/
+{
+    /*================================================FLORESTA=====================================================*/
+    "Floresta":[{
+        "dado1":"4",
+        "num_dado1":"1",
+        "monstro1":"Abelha Grifo",
+        "mod1":"0",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"1",
+        "monstro2":"0",
+        "mod2":"0"
+    },{
+        "dado1":"6",
+        "num_dado1":"1",
+        "monstro1":"Aranha Gigante",
+        "mod1":"0",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+        "dado1":"1",
+        "num_dado1":"1",
+        "monstro1":"Arvore Matilha",
+        "mod1":"0",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+        "dado1":"4",
+        "num_dado1":"2",
+        "monstro1":"Asa Assasina",
+        "mod1":"0",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+        "dado1":"2",
+        "num_dado1":"1",
+        "monstro1":"Basilisco",
+        "mod1":"1",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+        "dado1":"1",
+        "num_dado1":"1",
+        "monstro1":"Basilisco Maior",
+        "mod1":"0",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+        "dado1":"2",
+        "num_dado1":"1",
+        "monstro1":"Besouro Gigante",
+        "mod1":"1",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+        "dado1":"1",
+        "num_dado1":"1",
+        "monstro1":"Besouro Gigante",
+        "mod1":"0",
+        "multi":"0",
+        "dado2":"0",
+        "num_dado2":"0",
+        "monstro2":"0",
+        "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Bruxa da Noite",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Bruxa do Crepusculo",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Bugbear",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Cascavel",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Cavalo de Guerra",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Centauro Chefe",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Centauro Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Centauro Xamã",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Centopeia Dragão",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Cipó Assassino",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cobra Rei",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Cocatriz",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dragão Verde Filhote",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dragão Verde Jovem",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Elemental de Terra Ancião",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Elemental de Terra Enorme",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Elemental de Terra Medio",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Ente",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Espada da Floresta",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Galhada",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Girallon",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gnoll Caçador de Cabeças",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Gnoll Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Gnoll Lider da Alcateia",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Goblin",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Gorila",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Hobgoblin",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Homem Vegetal",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Javali",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Jiboia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Leão",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Lobo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Lobo das Cavernas",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Manticora",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Naja",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Ogro Capanga",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Ogro Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Orc Chefe",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Orc Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Orc Negro",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Orc Xamã",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Orquidea Carnivora",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Satiro",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Sucuri",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Tendriculo",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Troll Comum",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Unicornio",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Urso",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Urso das Carvernas",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Urso-Coruja",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Warg",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Lobo",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Lobo das Cavernas",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Ogro Capanga",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Ogro Comum",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Orc Chefe",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"6",
+    "num_dado2":"1",
+    "monstro2":"Orc Comum",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Orc Chefe",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Orc Xamã",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Orc Chefe",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"2",
+    "monstro2":"Orc Negro",
+    "mod2":"1"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Orc Xamã",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"2",
+    "monstro2":"Orc Negro",
+    "mod2":"1"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Orc Xamã",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"6",
+    "num_dado2":"2",
+    "monstro2":"Orc Comum",
+    "mod2":"1"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Orc Negro",
+    "mod1":"1",
+    "multi":"1",
+    "dado2":"6",
+    "num_dado2":"1",
+    "monstro2":"Orc Comum",
+    "mod2":"0"
+}],
+/*================================================PANTANO=====================================================*/
+"Pantano":[{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Afogado",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Ameba Gigante",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Aranha Gigante",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Basilisco",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Bruxa das Trevas",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Campeão Batraqueo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Canceronte",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Carniçal",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Catobeplas",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cobra Rei",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Crocodilo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Crocodilo Gigante",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dançarino da Agua",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dragão Negro Adulto",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dragão Negro Filhote",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Esqueleto Humano",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Golem de Lama",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Hidra de Duas Cabeças",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Hidra de Cinco Cabeças",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Zumbi Humano",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Incubador",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Lich",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Livido",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Pudim Negro",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Sapo Gigante",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Soldado Sapo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Sombra",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Sombra Maior",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Sucuri",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Campeão Batraqueo",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Sapo Gigante",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Campeão Batraqueo",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Soldado Sapo",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Sapo Gigante",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Soldado Sapo",
+    "mod2":"0"
+}],
+/*============================================DESERTO==========================================*/
+"Deserto":[{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Arkheg",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Aparição",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Bullete",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Caçador Invisivel",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Carniçal",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Elemental do Fogo Ancião",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Elemental do Fogo Enorme",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Elemental do Fogo pequeno",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Esqueleto Humano",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Esquelo Wyvern",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Fastasma",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Fera Cactus",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Golem de Pedra",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Lamia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Medusa",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Megapeia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Monstro da Ferrugem",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Mumia",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Nagah Guardião",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Nagah Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Objeto Animado Enorme",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Objeto Animado Grande",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Objeto Animado Medio",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Senhor das Mumias",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Verme Purpura",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Wyvern",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+}],
+/*=============================================MONTANHA===========================================*/
+"Montanha":[{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Abelha Grifo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Alfgeld",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Ancião das Rochas",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Asa-Assassina",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Carcaju",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Coruja Gigante",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dragão Azul Adulto",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Dragão Azul Filhote",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Elemental do Ar Ancião",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Elemental do Ar Enorme",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Elemental do Ar Pequeno",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gigante Bicefalo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Gigante da Colina",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gigante da Pedra",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Grifo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Harpia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Kobold Heroi",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Kobold Chefe",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Kobold Filho do Dragão",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Kobold Rei",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Lagarto Perseguidor",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Lobo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Lobo das Cavernas",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Manticora",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Ogro Capanga",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Ogro Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Orc Chefe",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Orc Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Orc Negro",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Orc Xamã",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Otyugh",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Passaro Roca",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Troll das Montanhas",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Troll Xamã",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Urso",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Urso Coruja",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Wyvern",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+}],
+/*===========================================SUBTERRAMEP===================================================*/
+"Subterraneo":[{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Ankheg",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Aparição",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Aracnarcano",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Aranha Gigante",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Carniçal",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Cocatriz",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cocatriz Imperador",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Cogumelo Anão",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cogumelo Anão Druida",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Cogumelo Anão Sentinela",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Esmaga Ossos",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Ganchador",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Grick",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Homem Rato",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Mantor",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Mastin das Sombras",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Mimico",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Otyugh",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Rato Gigante",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Rei dos Tuneis",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Sombra",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Escavador",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Trog Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Trog Saqueador",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Verme da Carniça",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Verme Purpura",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cogumelo Anão",
+    "mod1":"1",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"1",
+    "monstro2":"Cogumelo Anão Druida",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cogumelo Anão",
+    "mod1":"1",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Cogumelo Anão Sentinela",
+    "mod2":"0" 
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Cogumelo Anão Druida",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Cogumelo Anão Sentinela",
+    "mod2":"0" 
+}],
+/*=======================================PRAIA================================================*/
+"Praia":[{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Canceronte",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0" 
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Chull",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Elemental da Agua Enorme",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Elemental da Agua Medio",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Caçador",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Capitão",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Clerigo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Soldado",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Kraken",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Polvo Gigante",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Selako",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Sereia",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Tritão",
+    "mod1":"1",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Serpente Marinha",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Caçador",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Homem Peixe Soldado",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Capitão",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"1",
+    "monstro2":"Homem Peixe Caçador",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Capitão",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"1",
+    "monstro2":"Homem Peixe Clerigo",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Homem Peixe Clerigo",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"2",
+    "num_dado2":"1",
+    "monstro2":"Homem Peixe Soldado",
+    "mod2":"0"
+}],
+/*==========================================MASMORRAS==============================================*/
+"Masmorra":[{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Aparição",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Esqueleto Humano",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Fastasma",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Gargula",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Golem de Ferro",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Golem de Pedra",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gorgona",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Horror Blindado",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Limo Sangrento",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Manticora",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Mantor",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Mimico",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Mumia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Objeto Animado Medio",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Quimera",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Sala da Morte",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Senhor das Mumias",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Soldado Mecanico",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+}],
+/*=========================================ERMOS E PLANICIES==================================*/
+"Ermos":[{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Bandido",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Centauro Chefe",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Centauro Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Centauro Xamã",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Chefe Bandido",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Cobra Rei",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Elemental de Terra Medio",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gigante da Pedra",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Gnoll",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gnoll Caçador de Cabeças",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Gnoll Lider da Alcateia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Goblin",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Grifo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Hobgoblin",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"1",
+    "monstro1":"Jiboia",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"6",
+    "num_dado1":"2",
+    "monstro1":"Lobo",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Ogro Comum",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Ogro Capanga",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"2",
+    "num_dado1":"1",
+    "monstro1":"Urso Coruja",
+    "mod1":"0",
+    "multi":"0",
+    "dado2":"0",
+    "num_dado2":"0",
+    "monstro2":"0",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Goblin",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Hobgoblin",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Centauro Comum",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"1",
+    "monstro2":"Centauro Chefe",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Centauro Xamã",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Centauro Comum",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Chefe Bandido",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"2",
+    "monstro2":"Bandido",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Gnoll",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"1",
+    "monstro2":"Gnoll Lider de Alcateia",
+    "mod2":"0"
+},{
+    "dado1":"1",
+    "num_dado1":"1",
+    "monstro1":"Gnoll Lider de Alcateia",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"1",
+    "num_dado2":"1",
+    "monstro2":"Gnoll Caçador de Cabeça",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"2",
+    "monstro1":"Goblin",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Bugbear",
+    "mod2":"0"
+},{
+    "dado1":"4",
+    "num_dado1":"1",
+    "monstro1":"Hobgoblin",
+    "mod1":"0",
+    "multi":"1",
+    "dado2":"4",
+    "num_dado2":"1",
+    "monstro2":"Bugbear",
+    "mod2":"0"
+}]
+}
