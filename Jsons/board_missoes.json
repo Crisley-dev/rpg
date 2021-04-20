@@ -1,0 +1,250 @@
+{
+    "Caca": [{
+        "descricao": "Caçar um Urso coruja que vive nas redondesas.",
+        "recompensa": "T$ 150"
+    }, {
+
+        "descricao": "Caçar uma Manticora que assombra as estradas.",
+        "recompensa": "T$ 300"
+    }, {
+
+        "descricao": "Caçar e coletar a carne de Cancerontes nas proximidades.",
+        "recompensa": "T$ 100"
+    }, {
+
+        "descricao": "Caçar um Basilisco na floresta basilisco e trazer uma prova de que eles existem de fato",
+        "recompensa": "T$ 300 + 200 se trouxer a prova"
+    }, {
+
+        "descricao": "Caçar um casal de cobra-rei e trazer uma amostra do veneno",
+        "recompensa": "T$ 200"
+    }, {
+
+        "descricao": "Eliminar um grupo de gnolls que montou acampamento proximo a cidade e esta assaltando mercadores",
+        "recompensa": "T$ 100"
+    }, {
+
+        "descricao": "Eliminar Um grupo de goblinoides que estao proximos a cidade e atrapalham o trajeto dos mercadores",
+        "recompensa": "T$ 100"
+    }, {
+
+        "descricao": "Eliminar um ogro e trazer sua orelha.",
+        "recompensa": "T$ 200"
+    }, {
+
+        "descricao": "Eliminar um homem-vegetal.",
+        "recompensa": "200T$"
+    }, {
+
+        "descricao": "Eliminar um acampamento de Trog Saqueador.",
+        "recompensa": "T$ 350"
+    }, {
+
+        "descricao": "Lidar com um grupo de Otyughs que foram encontrados num tunel de escavação",
+        "recompensa": "T$ 300"
+    }, {
+
+        "descricao": "Lidar com um Assentamento orc que expreita a cidade",
+        "recompensa": "T$ 150"
+    }, {
+
+        "descricao": "Um grupo de mortos-vivos apareceu na região e partem em direção a cidade, Elimine-os",
+        "recompensa": "T$ 120"
+    }, {
+
+        "descricao": "Caçar um Javali e trazer seu couro e carne.",
+        "recompensa": "T$ 60"
+    }, {
+
+        "descricao": "Destruir um ninho de Aranha-Gigante",
+        "recompensa": "T$ 130"
+    }, {
+
+        "descricao": "Caçar um Urso(urso das cavernas) que tomou uma caverna de mineração como casa.",
+        "recompensa": "T$ 50"
+    }, {
+
+        "descricao": "Caçar um Troll na floresta proxima",
+        "recompensa": "T$ 200"
+    }, {
+
+        "descricao": "Caçar um verme purpura e trazer alguns pedaços de cascas.",
+        "recompensa": "T$550 + T$50 por pedaço"
+    }, {
+
+        "descricao": "Caçar um ou mais grifos na montanha mais proxima",
+        "recompensa": "T$ 150"
+    }, {
+
+        "descricao": "Eliminar um gigante da colina.",
+        "recompensa": "T$ 500"
+    }],
+    "Busca e Coleta": [{
+
+        "descricao": "Coletar uma plata que nasce ao pé da montanha",
+        "recompensa": "T$ 30"
+    }, {
+
+        "descricao": "Buscar uma espada de um aventureiro local que foi levada por orcs",
+        "recompensa": "T$ 50"
+    }, {
+
+        "descricao": "Recuperar o equipamento de um grupo de aventureiros que foi assaltado a noite.",
+        "recompensa": "T$ 100"
+    }, {
+
+        "descricao": "Recuperar obras de artes roubadas da casa de nobres por criaturas misteriosas em forma de sombra",
+        "recompensa": "T$ 200"
+    }, {
+
+        "descricao": "Coletar ovos de grifo no topo da montanha proxima a cidade.",
+        "recompensa": "T$ 100"
+    }, {
+
+        "descricao": "Buscar um amuleto escondido em uma possivel masmorra.",
+        "recompensa": "T$ 100"
+    }, {
+
+        "descricao": "Coletar Cogumelos raros que estão numa parte da floresta protegidos por cogumelos anoes",
+        "recompensa": "T$ 120"
+    }, {
+
+        "descricao": "Coletar o veneno de uma Cobra Rei",
+        "recompensa": "T$ 160"
+    }, {
+
+        "descricao": "Trazer um filhore de Urso Coruja (tem a localização)",
+        "recompensa": "T$ 250"
+    }, {
+
+        "descricao": "Trazer uma criatura petrificada por um basilisco",
+        "recompensa": "T$ 320"
+    }, {
+
+        "descricao": "Recuperar uma uma armadura de couro magica escondida no lar de um Gigante de pedra",
+        "recompensa": "T$ 210"
+    }, {
+
+        "descricao": "Pegar um Bastão magico conhecido como Bastão Constritor que fica protegico por uma cobra anciã",
+        "recompensa": "T$ 420"
+    }, {
+
+        "descricao": "Resgatar Oswald,o filho de Arin uma Klyren local, que que foi capturado por um grupo de homens sapo enquanto estava no pantano",
+        "recompensa": "T$ 170"
+    }, {
+
+        "descricao": "Resgatar um grupo de crianças humanas que foram pegos no territorio de um troll",
+        "recompensa": "T$ 140"
+    }, {
+
+        "descricao": "Coletar peças de um antigo golem de ferro. Nao se sabe se possuem outros",
+        "recompensa": "T$ 220"
+    }, {
+
+        "descricao": "Capturar e trazer uma sereia.",
+        "recompensa": "T$ 400"
+    }, {
+
+        "descricao": "Coletar ovos de crocodilo gigante",
+        "recompensa": "T$ 80 por ovo"
+    }, {
+
+        "descricao": "Coletar ovos de Coruja Gigante",
+        "recompensa": "T$ 60 por ovo"
+    }, {
+
+        "descricao": "Coletar penas de harpia",
+        "recompensa": "T$ 50 por 10 penas"
+    }, {
+
+        "descricao": "Colher as raizes de um tendriculo",
+        "recompensa": "T$ 350"
+    }],
+    "Gerais":[{
+        "descricao":"Recuperar as mercadorias roubadas por goblins",
+        "recompensa":"T$ 50"
+    },{
+        "descricao":"Ajudar uma vila que sofre com ataque de insetos",
+        "recompensa":"T$ 60"
+    },{
+        "descricao":"Reparar a barragem que está rompendo",
+        "recompensa":"T$ 80"
+    },{
+        "descricao":"Coletar algumas plantas numa floresta proxima",
+        "recompensa":"T$ 40"
+    },{
+        "descricao":"Investigar o sumiço de alguns animais",
+        "recompensa":"T$ 80"
+    },{
+        "descricao":"Identificar um item desconhecido encontrado por um grupo de humanos aventureiros",
+        "recompensa":"T$ 100"
+    },{
+        "descricao":"Treinar alguns aventureiros em Esgrima",
+        "recompensa":"T$ 15 por dia de treino"
+    },{
+        "descricao":"Ensinar algum instrumento ao filho de um grande mercador local",
+        "recompensa":"T$ 10 por aula - maximo de 10 aulas"
+    },{
+        "descricao":"Ensinar a filha de um nobre local a andar de cavalo",
+        "recompensa":"T$ 60"
+    },{
+        "descricao":"Expulsar um grupo de ladrões que se hospedara e nao querem sair.",
+        "recompensa":"T$ 80 "
+    },{
+        "descricao":"Escoltar um mercador até a proxima cidade",
+        "recompensa":"T$ 100"
+    },{
+        "descricao":"Ajudar um mercador a carregar suas mercadorias ate a proxima cidade",
+        "recompensa":"T$ 75"
+    }],
+    "Investigacao":[{
+        "descricao":"Investigar se existe um ninho de manticora.",
+        "recompensa":"T$ 120"
+    },{
+        "descricao":"Investigar a existencia de uma hidra de 5 cabeças",
+        "recompensa":"T$ 200"
+    },{
+        "descricao":"Investigar um possivel culto de nagahs.",
+        "recompensa":"T$ 300"
+    },{
+        "descricao":"Investigar um local mal assombrado por fantasmas",
+        "recompensa":"T$ 150"
+    },{
+        "descricao":"Investigar a existencia de uma sociedade de cogumelos anoes",
+        "recompensa":"T$ 200"
+    },{
+        "descricao":"investigar uma pegada de random",
+        "recompensa":"T$ 100"
+    },{
+        "descricao":"Investigar um limo estranho de cor escarlate",
+        "recompensa":"T$ 300"
+    },{
+        "descricao":"Investigar um possivel ninho de vampiros",
+        "recompensa":"T$ 230"
+    },{
+        "descricao":"Investigar uma fabrica de golens que apareceu na floresta",
+        "recompensa":"T$ 265"
+    },{
+        "descricao":"Investigar a aparição de um gorila de 4 braços",
+        "recompensa":"T$ 235"
+    }],
+    "Localizacao":[{
+        "descricao":"Localizar uma masmorra e desenhar um mapa ate o local.",
+        "recompensa":"T$ 200"
+    },{
+        "descricao":"Localizar um ninho de Passaro Roca",
+        "recompensa":"T$ 320"
+    },{
+        "descricao":"Localizar o paradeiro de um Unicornio",
+        "recompensa":"T$ 200"
+    },{
+        "descricao":"Localizar um grupo de crianças desaparecidas a 10 dias",
+        "recompensa":"T$ 120"
+    },{
+        "descricao":"Localizar uma espada magica de fogo que fica protegida por um elemental de fogo Anciao",
+        "recompensa":"T$ 400"
+    },{
+        "descricao":"Localizar um coven de bruxas",
+        "recompensa":"T$ 350"
+    }]
+}
