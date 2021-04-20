@@ -222,7 +222,7 @@
 },{
     "dado1":"1",
     "num_dado1":"1",
-    "monstro1":"Elemental de Terra Ancião",
+    "monstro1":"Elemental da Terra Ancião",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -232,7 +232,7 @@
 },{
     "dado1":"1",
     "num_dado1":"1",
-    "monstro1":"Elemental de Terra Enorme",
+    "monstro1":"Elemental da Terra Enorme",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -242,7 +242,7 @@
 },{
     "dado1":"4",
     "num_dado1":"1",
-    "monstro1":"Elemental de Terra Medio",
+    "monstro1":"Elemental da Terra Medio",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -2339,7 +2339,7 @@
 },{
     "dado1":"4",
     "num_dado1":"1",
-    "monstro1":"Elemental de Terra Medio",
+    "monstro1":"Elemental da Terra Medio",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
