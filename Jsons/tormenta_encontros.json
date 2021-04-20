@@ -1094,7 +1094,7 @@
 },{
     "dado1":"2",
     "num_dado1":"1",
-    "monstro1":"Fastasma",
+    "monstro1":"Fantasma",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -1285,7 +1285,7 @@
 },{
     "dado1":"4",
     "num_dado1":"2",
-    "monstro1":"Asa-Assassina",
+    "monstro1":"Asa Assassina",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -1776,7 +1776,7 @@
 },{
     "dado1":"4",
     "num_dado1":"1",
-    "monstro1":"Mastin das Sombras",
+    "monstro1":"Mastim das Sombras",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -2118,7 +2118,7 @@
 },{
     "dado1":"2",
     "num_dado1":"1",
-    "monstro1":"Fastasma",
+    "monstro1":"Fantasma",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -2239,16 +2239,6 @@
     "dado1":"1",
     "num_dado1":"1",
     "monstro1":"Quimera",
-    "mod1":"0",
-    "multi":"0",
-    "dado2":"0",
-    "num_dado2":"0",
-    "monstro2":"0",
-    "mod2":"0"
-},{
-    "dado1":"1",
-    "num_dado1":"1",
-    "monstro1":"Sala da Morte",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -2509,7 +2499,7 @@
 },{
     "dado1":"4",
     "num_dado1":"2",
-    "monstro1":"Gnoll",
+    "monstro1":"Gnoll Comum",
     "mod1":"0",
     "multi":"1",
     "dado2":"1",
