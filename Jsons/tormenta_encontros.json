@@ -572,7 +572,7 @@
 },{
     "dado1":"2",
     "num_dado1":"1",
-    "monstro1":"Urso-Coruja",
+    "monstro1":"Urso Coruja",
     "mod1":"1",
     "multi":"0",
     "dado2":"0",
@@ -1927,7 +1927,7 @@
 },{
     "dado1":"2",
     "num_dado1":"1",
-    "monstro1":"Chull",
+    "monstro1":"Chuul",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
@@ -2359,7 +2359,7 @@
 },{
     "dado1":"6",
     "num_dado1":"2",
-    "monstro1":"Gnoll",
+    "monstro1":"Gnoll Comum",
     "mod1":"0",
     "multi":"0",
     "dado2":"0",
