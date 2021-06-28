@@ -1,19 +1,40 @@
 {
-    "nome":"Aranha",
-    "nd": "1",
-    "tipo":"2",
-    "nivel": "3",
-    "tamanho": "4",
-    "iniciativa": "5",
-    "percepcao":"6",
-    "defesa":"7",
-    "resistencias":"8",
-    "pm":"9",
-    "deslocamento":"10",
-    "cac": "11",
-    "acoes": {
-        "teia":"teia",
-        "veneno":"venveno"
-    }
- 
+    "Aranha":[{
+        "nome":"Aranha",
+        "nd": "1",
+        "tipo":"2",
+        "nivel": "3",
+        "tamanho": "4",
+        "iniciativa": "5",
+        "percepcao":"6",
+        "defesa":"7",
+        "resistencias":"8",
+        "pm":"9",
+        "deslocamento":"10",
+        "cac": "11",
+        "acoes": {
+            "teia":"teia",
+            "veneno":"venveno"
+        }
+     
+    }],
+    "Abolete":[{
+        "nome":"Abolete",
+        "nd": "1",
+        "tipo":"2",
+        "nivel": "3",
+        "tamanho": "4",
+        "iniciativa": "5",
+        "percepcao":"6",
+        "defesa":"7",
+        "resistencias":"8",
+        "pm":"9",
+        "deslocamento":"10",
+        "cac": "11",
+        "acoes": {
+            "teia":"teia",
+            "veneno":"venveno"
+        }
+    }]
 }
+
