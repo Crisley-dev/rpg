@@ -47,7 +47,7 @@
         ],
         "dado_de_vida": "d6",
         "pontos_de_vida": 6,
-        "magias": {
+        "espacos_de_magia": {
           "nivel_1": 2,
           "nivel_2": 0,
           "nivel_3": 0
