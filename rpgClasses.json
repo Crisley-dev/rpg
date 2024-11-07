@@ -51,12 +51,7 @@
           "nivel_1": 2,
           "nivel_2": 0,
           "nivel_3": 0
-        },
-        "magias": [
-          "Raio de Fogo",
-          "Misseis Magicos",
-          "Armadura Arcana"
-        ]
+        }
       },
       {
         "nome": "Ladrão",
